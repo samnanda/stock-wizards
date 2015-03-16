@@ -1,0 +1,1 @@
+A website that has investment calculators. This is licensed under the LGPL and is free as is freedom of speech but is not free as in free beer. Please contact me if you need to purchase a copy.
